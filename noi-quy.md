@@ -32,3 +32,5 @@
 - Nếu Phát Hiện Bài Đăng Đã Trùng Với Nội Dung Trước Đó Hãy Sử Dụng Chức Năng "Báo Cáo Cho Quản Trị Viên" Hoặc "Báo Cáo Bài Viết".
 - Nếu Phát Hiện Những Bình Luận Thiếu Tôn Trọng Hay "." Hãy Tag Ngay Quản Trị Viên Bất Kỳ Để Kịp Thời Xử Lý.
 - Tùy Vào Mức Độ Nặng Nhẹ, Các Quản Trị Viên Sẽ Hội Ý Và Đưa Ra Quyết Định Cuối Cùng: "Banned", "Xóa Bài Viết" Hoặc "Xóa Bình Luận".
+
+### Nội Quy Được Soạn Bởi Nguyễn Ngọc Huy - Hoàn Thành Lúc 11h36 - 24/03/2017
