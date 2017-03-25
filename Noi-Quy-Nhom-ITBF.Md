@@ -1,4 +1,4 @@
-# Nội Quy Nhóm [ITBF COMMUNITY](http://fb.me/groups/ITBF.Community/)
+# Nội Quy Nhóm [ITBF COMMUNITY](https://www.facebook.com/groups/ITBF.Community/)
 
 ***Yêu Cầu Các Thành Viên Đọc Kỹ Nội Quy Trước Khi Tham Gia Nhóm Để Tránh Việc Các Bài Đăng Bị Xóa Hoặc Thành Viên Bị Banned Ra Khỏi Nhóm Mà Không Biết Lý Do***
 
