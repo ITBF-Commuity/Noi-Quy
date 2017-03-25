@@ -14,10 +14,10 @@
 - Bài Đăng Không Được Chứa Hay Mang Nội Dung Quảng Cáo.
 - Để Tránh Sự Trùng Lặp Nội Dung, Yêu Cầu Toàn Bộ Bài Đăng Phải Sử Dụng Hashtag Phù Hợp Với Nội Dung Của Bài Đăng.
 - Không Sử Dụng Những Liên Kết Có Khả Năng Kiếm Tiền Trong Bài Đăng.
-- Có Thể Sử Dụng Liên Kết Bảo Vệ Nội Dung Tại: http://anlink.top/ Để Chống "Ninja" Sống Ẩn Dật Trong Nhóm.
+- Có Thể Sử Dụng Liên Kết Bảo Vệ Nội Dung Tại: [AnLink.Top](http://anlink.top/) Để Chống "Ninja" Sống Ẩn Dật Trong Nhóm.
 - Nếu Sự Dụng Lại Các Bài Viết Của Nhóm Khác Hoặc Một Trang Web Nào Đó Thì Phải Để Lại Nguồn.
 - Hình Ảnh Đính Kèm Phải Phù Hợp Với Nội Dung Bài Viết.
-- Liên Kết Đính Kèm Phải Đảm Bảo Không Chết Theo Thời Gian ("Khuyến Khích Sử Dụng https://drive.google.com/ để lưu trữ dữ liệu").
+- Liên Kết Đính Kèm Phải Đảm Bảo Không Chết Theo Thời Gian ("Khuyến Khích Sử Dụng [Google Drive](https://drive.google.com/) để lưu trữ dữ liệu").
 - Các Bài Viết Không Được Chứa Các Nội Dung Hack/Cheat.
 ### 2.) Chủ Đề Bài Viết:
 - Các Bài Viết Về Dạy Lập Trình, Đồ Họa Và Bảo Mật Hệ Thống.
