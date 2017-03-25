@@ -1,13 +1,13 @@
 # Nội Quy Nhóm [ITBF COMMUNITY](https://www.facebook.com/groups/ITBF.Community/)
 
 ***Thông Tin Về Nhóm***
-Tên: [ITBF COMMUNITY](https://www.facebook.com/groups/ITBF.Community/)
-ID: [220632435063687](https://www.facebook.com/groups/220632435063687/)
+- Tên: [ITBF COMMUNITY](https://www.facebook.com/groups/ITBF.Community/)
+- ID: [220632435063687](https://www.facebook.com/groups/220632435063687/)
 - IT = Information Technology = CNTT.
 - B = Back => Back-End.
 - F = Font => Font-End.
 - COMMUNITY = Cộng Đồng.
-- => ITBF COMMUNITY
+- => ITBF COMMUNITY.
 
 ***Yêu Cầu Các Thành Viên Đọc Kỹ Nội Quy Trước Khi Tham Gia Nhóm Để Tránh Việc Các Bài Đăng Bị Xóa Hoặc Thành Viên Bị Banned Ra Khỏi Nhóm Mà Không Biết Lý Do***
 
