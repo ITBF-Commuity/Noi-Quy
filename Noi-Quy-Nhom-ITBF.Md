@@ -1,4 +1,4 @@
-# Nội Quy Nhóm ITBF COMMUNITY
+# Nội Quy Nhóm ITBF COMMUNITY (http://fb.me/groups/ITBF.Community/ - ID Nhóm: 220632435063687)
 
 ***Yêu Cầu Các Thành Viên Đọc Kỹ Nội Quy Trước Khi Tham Gia Nhóm Để Tránh Việc Các Bài Đăng Bị Xóa Hoặc Thành Viên Bị Banned Ra Khỏi Nhóm Mà Không Biết Lý Do***
 
