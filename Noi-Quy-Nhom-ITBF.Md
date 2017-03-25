@@ -1,8 +1,7 @@
 # Nội Quy Nhóm [ITBF COMMUNITY](https://www.facebook.com/groups/ITBF.Community/)
-*** Thông Tin Về Nhóm ****
 
+***Thông Tin Về Nhóm***
 Tên: [ITBF COMMUNITY](https://www.facebook.com/groups/ITBF.Community/)
-
 ID: [220632435063687](https://www.facebook.com/groups/220632435063687/)
 - IT = Information Technology = CNTT.
 - B = Back => Back-End.
