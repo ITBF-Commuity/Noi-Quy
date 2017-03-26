@@ -42,5 +42,17 @@
 - Nếu Phát Hiện Những Bình Luận Thiếu Tôn Trọng Hay "." Hãy Tag Ngay Quản Trị Viên Bất Kỳ Để Kịp Thời Xử Lý.
 - Tùy Vào Mức Độ Nặng Nhẹ, Các Quản Trị Viên Sẽ Hội Ý Và Đưa Ra Quyết Định Cuối Cùng: "Banned", "Xóa Bài Viết" Hoặc "Xóa Bình Luận".
 ## V.) Hình Thức Tính Điểm Rank:
-- Đang Cập Nhật
+- Đăng 1 bài viết : +6
+- 1 ký tự của bài viết : +0.02
+- Bình luận 1 bài viết : +3
+- 1 ký tự của bình luận bài viết : +0.002
+- Like 1 bài viết : +1
+- Like 1 bình luận : +1
+- Nhận được Like +1/like
+- Nhận được Bình luận : +2/cmt
+- Nhận được Like trên Bình luận : +0.5/like
+- Nhận được cài Tags vào : +0.5/cái
+## VI.) Phần Thưởng Thứ Hạng (Tính Theo Tháng - Áp Dụng Từ Ngày 01/04/2017):
+- Top 1: 1000RP
+- Top 2: 500RP
 ### Nội Quy Được Soạn Bởi [Nguyễn Ngọc Huy](https://www.facebook.com/Nguyen.Ngoc.Huy.ITBF) - Hoàn Thành Lúc 11h36 - 24/03/2017
