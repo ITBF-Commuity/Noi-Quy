@@ -16,8 +16,10 @@
 - Có Thể Sử Dụng Facebook Wall Ma Để Giảm Thiểu Các Thanh Niên "Sửu Nhi" Manh Động R.I.P.
 - Mỗi Trang Facebook Cá Nhân Tối Thiểu Ít Nhất Phải Có Ảnh Đại Diện.
 - Không Sử Dụng Facebook Ảo Để Tham Gia Nhóm ("Kiểm Tra Qua Ngày Tạo Facebook Và Số Lượng Bài Đăng").
+**Các Thành Viên Sẽ Được Duyệt Bởi Administrator (Nguyễn Ngọc Huy)[https://www.facebook.com/Nguyen.Ngoc.Huy.ITBF]**
 ## II.) Yêu Cầu Tối Thiểu Cần Có Cho Một Bài Viết:
 ### 1.) Nội Dung Bài Viết:
+- Các Bài Đăng Phải Đảm Bảo Khi Tải Về Phải Chắc Chắn Còn Sử Dụng Được.
 - Có Thể Sử Dụng Ngôn Ngữ Tiếng Việt (Khuyến Khích) Và Tiếng Anh.
 - Bài Đăng Phải Sử Dụng Ngôn Ngữ Một Cách Văn Minh, Lịch Sự Và Có Văn Hóa ("Lời Nói Chẳng Mất Tiền Mua, Lựa Lời Mà Nói Cho Vừa Lòng Nhau").
 - Bài Đăng Không Được Chứa Hay Mang Nội Dung Quảng Cáo Mang Tính Lợi Nhuận Cá Nhân.
@@ -28,6 +30,7 @@
 - Hình Ảnh Đính Kèm Phải Phù Hợp Với Nội Dung Bài Viết.
 - Liên Kết Đính Kèm Phải Đảm Bảo Không Chết Theo Thời Gian ("Khuyến Khích Sử Dụng [Google Drive](https://drive.google.com/) để lưu trữ dữ liệu").
 - Các Bài Viết Không Được Chứa Các Nội Dung Hack/Cheat/Bug/DDos,...
+**Các Bài Đăng Sẽ Được Kiểm Tra Kỹ Lưỡng Từ Nội Dung Và Liên Kết Đính Kèm Và Được Duyệt Bởi Administrator (Nguyễn Ngọc Huy)[https://www.facebook.com/Nguyen.Ngoc.Huy.ITBF]**
 ### 2.) Chủ Đề Bài Viết:
 - Các Bài Viết Về Dạy Lập Trình, Đồ Họa Và Bảo Mật Hệ Thống.
 - Các Bài Viết Có Nội Dung 18+ Đăng Sau 23h00 ("Không Chứa Các Hình Ảnh Quá Gợi Cảm Và Thiếu Vải").
