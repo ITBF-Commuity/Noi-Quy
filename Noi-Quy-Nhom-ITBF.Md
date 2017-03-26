@@ -17,7 +17,7 @@
 - Mỗi Trang Facebook Cá Nhân Tối Thiểu Ít Nhất Phải Có Ảnh Đại Diện.
 - Không Sử Dụng Facebook Ảo Để Tham Gia Nhóm ("Kiểm Tra Qua Ngày Tạo Facebook Và Số Lượng Bài Đăng").
 
-***Các Thành Viên Khi Tham Gia Nhóm Sẽ Được Duyệt Bởi Administrator [Nguyễn Ngọc Huy](https://www.facebook.com/Nguyen.Ngoc.Huy.ITBF)***
+***Các Thành Viên Khi Tham Gia Nhóm Sẽ Được Duyệt Bởi Administrator [Nguyễn Ngọc Huy](https://www.facebook.com/Nguyen.Ngoc.Huy.ITBF).***
 
 ## II.) Yêu Cầu Tối Thiểu Cần Có Cho Một Bài Viết:
 ### 1.) Nội Dung Bài Viết:
@@ -33,10 +33,10 @@
 - Liên Kết Đính Kèm Phải Đảm Bảo Không Chết Theo Thời Gian ("Khuyến Khích Sử Dụng [Google Drive](https://drive.google.com/) để lưu trữ dữ liệu").
 - Các Bài Viết Không Được Chứa Các Nội Dung Hack/Cheat/Bug/DDos,...
 
-***Các Bài Đăng Sẽ Được Kiểm Tra Kỹ Lưỡng Từ Nội Dung Và Liên Kết Đính Kèm Và Được Duyệt Bởi Administrator [Nguyễn Ngọc Huy](https://www.facebook.com/Nguyen.Ngoc.Huy.ITBF)***
+***Các Bài Đăng Sẽ Được Kiểm Tra Kỹ Lưỡng Từ Nội Dung Và Liên Kết Đính Kèm Và Được Duyệt Bởi Administrator [Nguyễn Ngọc Huy](https://www.facebook.com/Nguyen.Ngoc.Huy.ITBF).***
 
 ### 2.) Chủ Đề Bài Viết:
-- Các Bài Viết Về Dạy Lập Trình, Đồ Họa Và Bảo Mật Hệ Thống.
+- Các Bài Viết Về Dạy Lập Trình, Đồ Họa, Phần Mềm, Hướng Dẫn Và Bảo Mật Hệ Thống.
 - Các Bài Viết Có Nội Dung 18+ Đăng Sau 23h00 ("Không Chứa Các Hình Ảnh Quá Gợi Cảm Và Thiếu Vải").
 - Các Bài Viết Mang Tính Chất Giải Trí Chỉ Được Đăng Vào Các Ngày Cuối Tuần ("Thứ 7 Và Chủ Nhật").
 ## III.) Yêu Cầu Tối Thiểu Của Một Bình Luận:
