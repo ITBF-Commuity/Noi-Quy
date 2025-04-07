@@ -1046,3 +1046,31 @@ video {
         aspect-ratio: 16/9;
     }
 }
+
+.pagination {
+    display: flex;
+    gap: 5px;
+    margin-top: 20px;
+}
+
+.pagination a {
+    padding: 8px 12px;
+    background: #333;
+    border-radius: 4px;
+    color: white;
+    text-decoration: none;
+}
+
+.pagination a.active {
+    background: #e50914;
+    font-weight: bold;
+}
+
+.filter-section select {
+    padding: 8px 12px;
+    background: #333;
+    color: white;
+    border: 1px solid #444;
+    border-radius: 4px;
+    margin-bottom: 20px;
+}
